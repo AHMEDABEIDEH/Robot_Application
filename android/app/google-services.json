@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28025186437",
+    "project_id": "flutter-robot-77084",
+    "storage_bucket": "flutter-robot-77084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28025186437:android:daeeb0cd40d9f2cd4321ec",
+        "android_client_info": {
+          "package_name": "com.example.robot_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28025186437-4j43b1pmkapi5651kp75h2jh84h9k1lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvAGYJsdhzgP9uK7YdvMX0Pw42fBRWZIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28025186437-4j43b1pmkapi5651kp75h2jh84h9k1lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
